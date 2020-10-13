@@ -15,7 +15,9 @@ _global_script_class_icons={
 
 [application]
 
-config/name="gena_dev"
+config/name="GENA"
+config/description="An epic adventure game."
+run/main_scene="res://MainMenu.tscn"
 config/icon="res://icon.png"
 
 [rendering]

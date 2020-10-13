@@ -1,19 +1,19 @@
 # Godot 4+ specific ignores
-gena_dev/.godot/
+.godot/
 
 # Godot-specific ignores
-gena_dev/.import/
-gena_dev/export.cfg
-gena_dev/export_presets.cfg
+.import/
+.export.cfg
+.export_presets.cfg
 
 # Imported translations (automatically generated from CSV files)
-gena_dev/*.translation
+.*.translation
 
 # Mono-specific ignores
-gena_dev/.mono/
-gena_dev/data_*/
-gena_dev/mono_crash.*.json
+..mono/
+.data_*/
+.mono_crash.*.json
 
 # System/tool-specific ignores
-gena_dev/.directory
-gena_dev/*~
+..directory
+.*~
